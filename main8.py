@@ -3,8 +3,8 @@ import time
 
 st.title('Streamlit超入門')
 
-st.write('ブログレスバーの表示')
-'Start'
+st.write('プログレスバーの表示')
+'Start!!'
 
 latest_iteration = st.empty()
 bar = st.progress(0)

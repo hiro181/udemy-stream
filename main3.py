@@ -7,7 +7,7 @@ st.title('Streamlit超入門')
 st.write('DataFrame')
 
 df = pd.DataFrame(
-    np.random.rand(100,2)/[50,50]+[35.69,139.70],
+    np.random.rand(100,2)/[50,50]+[35.546,139.507],
     columns=['lat','lon']
     )
 
